@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1747301141,,"wq!"
+|2,0,1747301887,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,36 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/sample.txt
-|4,48,2,0,1747301141,"~/sample.txt"
-'1  1  26  ~/file.txt
-|4,49,1,26,1747300907,"~/file.txt"
-'2  1  25  ~/file.txt
-|4,50,1,25,1747300683,"~/file.txt"
+'0  3  19  ~/sample.txt
+|4,48,3,19,1747301887,"~/sample.txt"
+'1  1  17  ~/sample.txt
+|4,49,1,17,1747301564,"~/sample.txt"
+'2  1  17  ~/sample.txt
+|4,50,1,17,1747301564,"~/sample.txt"
+'3  4  0  ~/sample.txt
+|4,51,4,0,1747301141,"~/sample.txt"
+'4  4  0  ~/sample.txt
+|4,52,4,0,1747301141,"~/sample.txt"
+'5  2  0  ~/sample.txt
+|4,53,2,0,1747301141,"~/sample.txt"
+'6  2  0  ~/sample.txt
+|4,54,2,0,1747301141,"~/sample.txt"
+'7  1  26  ~/file.txt
+|4,55,1,26,1747300907,"~/file.txt"
+'8  1  25  ~/file.txt
+|4,56,1,25,1747300683,"~/file.txt"
 
 # Jumplist (newest first):
+-'  3  19  ~/sample.txt
+|4,39,3,19,1747301887,"~/sample.txt"
+-'  1  17  ~/sample.txt
+|4,39,1,17,1747301855,"~/sample.txt"
+-'  1  17  ~/sample.txt
+|4,39,1,17,1747301564,"~/sample.txt"
+-'  4  0  ~/sample.txt
+|4,39,4,0,1747301141,"~/sample.txt"
+-'  2  0  ~/sample.txt
+|4,39,2,0,1747301141,"~/sample.txt"
 -'  2  0  ~/sample.txt
 |4,39,2,0,1747301141,"~/sample.txt"
 -'  1  0  ~/sample.txt
@@ -41,6 +63,30 @@
 |4,39,1,26,1747300907,"~/file.txt"
 -'  1  26  ~/file.txt
 |4,39,1,26,1747300907,"~/file.txt"
+-'  1  26  ~/file.txt
+|4,39,1,26,1747300907,"~/file.txt"
+-'  1  26  ~/file.txt
+|4,39,1,26,1747300907,"~/file.txt"
+-'  1  26  ~/file.txt
+|4,39,1,26,1747300907,"~/file.txt"
+-'  1  26  ~/file.txt
+|4,39,1,26,1747300907,"~/file.txt"
+-'  1  26  ~/file.txt
+|4,39,1,26,1747300907,"~/file.txt"
+-'  1  26  ~/file.txt
+|4,39,1,26,1747300907,"~/file.txt"
+-'  1  25  ~/file.txt
+|4,39,1,25,1747300683,"~/file.txt"
+-'  1  25  ~/file.txt
+|4,39,1,25,1747300683,"~/file.txt"
+-'  1  25  ~/file.txt
+|4,39,1,25,1747300683,"~/file.txt"
+-'  1  25  ~/file.txt
+|4,39,1,25,1747300683,"~/file.txt"
+-'  1  25  ~/file.txt
+|4,39,1,25,1747300683,"~/file.txt"
+-'  1  25  ~/file.txt
+|4,39,1,25,1747300683,"~/file.txt"
 -'  1  25  ~/file.txt
 |4,39,1,25,1747300683,"~/file.txt"
 -'  1  25  ~/file.txt
@@ -49,11 +95,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/sample.txt
-	*	1747301137	0
-	"	2	0
-	^	2	0
-	.	1	25
-	+	1	25
+	*	1747301881	0
+	"	3	19
+	^	3	20
+	.	3	19
+	+	1	17
+	+	4	0
+	+	3	19
 
 > ~/file.txt
 	*	1747300902	0
